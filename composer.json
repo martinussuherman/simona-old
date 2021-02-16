@@ -1,0 +1,9 @@
+{
+    "name": "sangkuriang/apisimona",
+    "description": "api simona",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^5.0",
+        "ellumilel/php-excel-writer": ">=0.1.3"
+    }
+}
